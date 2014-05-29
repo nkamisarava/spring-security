@@ -7,7 +7,6 @@ public enum UserRoleEnum {
     ANONYMOUS;
 
     UserRoleEnum() {
-
     }
 
 }

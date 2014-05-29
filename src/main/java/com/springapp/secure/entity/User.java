@@ -1,10 +1,7 @@
 package com.springapp.secure.entity;
 
-/**
- * Created by Natallia_Kamisarava on 27-May-14.
- */
-
 public class User {
+
     private String login;
     private String password;
 
